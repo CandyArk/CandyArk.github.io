@@ -1393,7 +1393,7 @@ thead {
     left: 18px;
     height: 100%;
     width: 4px;
-    background: #0f9d58;
+    background: #8041e6;
 }
 
 @media only screen and (min-width: 900px) {
@@ -1608,7 +1608,7 @@ thead {
 }
 
 .post-statis .statis .count a {
-    color: #42b983;
+    color: #8041e6;
 }
 
 .post-statis .statis .name {
@@ -1629,8 +1629,8 @@ thead {
     margin: 0 0.5rem;
     padding: 0;
     color: #fff;
-    border: 1px solid #0f9d58;
-    background: radial-gradient(#4cbf30, #0f9d58);
+    border: 1px solid #8041e6;
+    background: radial-gradient(#8041e6, #8041e6);
     font-size: 0.9rem;
     border-radius: 50%;
     box-shadow: 0 4px 6px rgba(50, 50, 93, .21), 0 2px 3px rgba(0, 0, 0, .1);
